@@ -22,6 +22,7 @@ use this for install pygame
 
 ``` bash
 python -m pip install --upgrade pygame
+
 ```
 
 ## 🌟 How to run
@@ -36,6 +37,5 @@ python ./main.py
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/Snake_game.png" width=70% height=70%>
 
 ## 🤖 Author
-<!--Remove the below lines and add yours -->
-[Alexander Monterrosa](https://github.com/Alex108-lab)
+[Srijan Shrestha]()
 
